@@ -8,3 +8,9 @@ Old youtuber&streamer. Twitch addict
 I'm 🇫🇷 and I love "chocolatines" !
 
 I'm currently working for [iObeya](https://www.iobeya.com/), an amazing visual management tool
+
+Please discover my first plugin for Kanboard : [Group_owners](https://github.com/Cyboulette/Group_owners)
+
+
+
+[![Cyboulette's github stats](https://github-readme-stats.vercel.app/api?username=cyboulette)](https://github.com/Cyboulette)
